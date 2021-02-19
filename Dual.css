@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto Slab', serif;
+}
+h1, h2{
+    color: red;
+    font-size: 40px;
+}
+h4{
+    color: orange;
+}
+.dual{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.top-baner2{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right; 
+}
+.button{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(45deg, green, blue);
+    border-radius: 5px;
+    padding: 4px 4px;
+}
+.shadow{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+h3{
+    color: coral;
+}
+h5{
+    color: darkgreen;
+}
+#sultan{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, salmon, gold);
+    border-image-slice: 1;
+}
+#shahed{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.footer{
+    text-align: center;
+    font-size: 12px;
+}
+
+
